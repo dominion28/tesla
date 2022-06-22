@@ -8,3 +8,4 @@ pear
 avocado
 lime
 carrot
+cherry
