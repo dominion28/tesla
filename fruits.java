@@ -7,3 +7,4 @@ banana
 pear
 avocado
 lime
+guava
