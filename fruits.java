@@ -8,3 +8,4 @@ pear
 avocado
 lime
 guava
+strawberry
