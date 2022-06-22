@@ -4,3 +4,6 @@ pineaple
 grapes
 lemon
 banana
+pear
+avocado
+lime
